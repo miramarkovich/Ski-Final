@@ -2886,7 +2886,7 @@ input, select, textarea {
 		}
 
 	ul.divided li {
-		border-top-color: #e41414;
+		border-top-color: #eeeeee;
 	}
 
 	ul.icons li a.icon:hover:before {
@@ -2894,7 +2894,7 @@ input, select, textarea {
 	}
 
 	ul.icons.alt li .icon:before {
-		box-shadow: inset 0 0 0 2px #c03131;
+		box-shadow: inset 0 0 0 2px #eeeeee94;
 	}
 
 	ul.icons.alt li a.icon:hover:before {
@@ -4385,7 +4385,7 @@ input, select, textarea {
 	#copyright {
 		color: #ffffff;
 		position: relative;
-		color: rgba(255, 255, 255, 0.25);
+		color: rgba(255, 255, 255, 0.996);
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
